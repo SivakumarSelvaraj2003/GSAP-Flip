@@ -1,0 +1,38 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+
+}
+.full{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    gap: 10rem;
+}
+.container{
+    border: 2px solid black;
+    width: 100px;
+    height: 400px;
+    margin-left: 45%;
+    margin-top: 5%;
+   
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+
+}
